@@ -61,7 +61,7 @@ m.get_inboxes()
 
 ### 📦 Version
 
-- **v1.0.0** – Full email API, domain validation, loop/non-loop modes
+- **v2.0.0** – Full email API, domain validation, loop/non-loop modes
 
 > ⚠️ *Note:* Early version; improvements and more providers planned.
 
@@ -69,3 +69,4 @@ m.get_inboxes()
 ### 💬 Help & Support .
 - Follow updates via the **[Telegram Channel](https://t.me/Pycodz)**.
 - For general questions and help, join our **[Telegram chat](https://t.me/PyChTz)**.
+
