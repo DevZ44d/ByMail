@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Telegram-Channel-blue.svg?logo=telegram">
   </a>
     
-  <a href="https://t.me/DevGit" target="_blank">
+  <a href="https://t.me/PyChTz" target="_blank">
     <img alt="Telegram-Discuss" src="https://img.shields.io/badge/Telegram-Discuss-blue.svg?logo=telegram" />
   </a>
 </p>
@@ -101,3 +101,4 @@ if __name__ == '__main__':
 ### 💬 Help & Support .
 - Follow updates via the **[Telegram Channel](https://t.me/Pycodz)**.
 - For general questions and help, join our **[Telegram chat](https://t.me/PyChTz)**.
+
